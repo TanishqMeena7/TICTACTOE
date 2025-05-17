@@ -19,10 +19,10 @@ This was the game that gave me a best nostalgia the classic Tic Tac Toe game —
 # Game Snapshots
 
 ## Snapshot 1 - Start
-![snapshot1](snapshots/snapshot1.png)
+![snapshot1](Snapshots/snapshot1.png)
 
 ## Snapshot 2 - Circle Win
-![snapshot2](snapshots/snapshot2.png)
+![snapshot2](Snapshots/snapshot2.png)
 
 ## Snapshot 3 - Cross Win
-![snapshot3](snapshots/snapshot3.png)
+![snapshot3](Snapshots/snapshot3.png)

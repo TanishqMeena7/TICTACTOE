@@ -15,3 +15,14 @@ This was the game that gave me a best nostalgia the classic Tic Tac Toe game —
 🔁 Press R to restart the game
 🧠 Toggle AI difficulty with 0 (easy) and 1 (hard)
 🧑‍🤝‍🧑 Switch between AI and PvP mode using G
+
+# Game Snapshots
+
+## Snapshot 1 - Start
+![snapshot1](snapshots/snapshot1.png)
+
+## Snapshot 2 - Circle Win
+![snapshot2](snapshots/snapshot2.png)
+
+## Snapshot 3 - Cross Win
+![snapshot3](snapshots/snapshot3.png)
